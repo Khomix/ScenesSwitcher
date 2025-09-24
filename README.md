@@ -31,26 +31,12 @@
 
 ---
 
-## 📂 Package Structure
-
-Khomix/
-│── package.json
-│── README.md
-│── CHANGELOG.md
-│── LICENSE
-│── icon.png
-│
-└── ScenesSwitcher/
-    └── Editor/
-        │── Khomix.ScenesSwitcher.Editor.asmdef
-        │── ScenesDropdown.cs
----
 
 ## ⚙️ Requirements
 - Unity **2021.3 LTS** or newer
 - Editor-only package
 
----
+
 
 ## 📜 License
 Distributed under the [MIT](LICENSE) License.  
