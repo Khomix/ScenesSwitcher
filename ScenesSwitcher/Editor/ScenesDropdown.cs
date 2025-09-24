@@ -18,7 +18,7 @@ namespace Khomix.ScenesSwitcher.Editor {
       clicked += ShowMenu;
     }
 
-    void ShowMenu() {
+    private void ShowMenu() {
       var menu = new GenericMenu();
       int count = SceneManager.sceneCountInBuildSettings;
 
