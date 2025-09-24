@@ -17,7 +17,7 @@
 1. In Unity, open **Window → Package Manager**.
 2. Click **+ → Add package from git URL…**
 3. Paste:
-   https://github.com/Khomix/Khomix.ScenesSwitcher.git#v1.0.0
+   https://github.com/Khomix/ScenesSwitcher.git#v1.0.0
 
 
 ### Install via `.unitypackage`
