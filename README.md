@@ -18,13 +18,6 @@
 2. Click **+ → Add package from git URL…**
 3. Paste:
    https://github.com/Khomix/ScenesSwitcher.git#v1.0.0
-
-
-### Install via `.unitypackage`
-1. Download `KhomixScenesSwitcher.unitypackage` from [Releases](https://github.com/Khomix/Khomix.ScenesSwitcher/releases).
-2. In Unity, choose **Assets → Import Package → Custom Package…**
-3. Select the file and import.
-
 ---
 
 ## 🚀 Usage
@@ -39,10 +32,18 @@
 ---
 
 ## 📂 Package Structure
-Editor/
-Khomix.ScenesSwitcher.Editor.asmdef
-ScenesDropdown.cs
 
+Khomix/
+│── package.json
+│── README.md
+│── CHANGELOG.md
+│── LICENSE
+│── icon.png
+│
+└── ScenesSwitcher/
+    └── Editor/
+        │── Khomix.ScenesSwitcher.Editor.asmdef
+        │── ScenesDropdown.cs
 ---
 
 ## ⚙️ Requirements
