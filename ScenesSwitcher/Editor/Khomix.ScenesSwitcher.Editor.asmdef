@@ -1,0 +1,6 @@
+{
+	"name": "Khomix.ScenesSwitcher.Editor",
+	"rootNamespace": "Khomix.ScenesSwitcher.Editor",
+	"includePlatforms": ["Editor"],
+	"autoReferenced": true
+}

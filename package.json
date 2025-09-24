@@ -1,0 +1,10 @@
+{
+  "name": "com.khomix.scenes-switcher",
+  "version": "1.0.0",
+  "displayName": "Khomix Scenes Switcher",
+  "description": "SceneView dropdown to quickly open scenes from Build Settings.",
+  "unity": "2021.3",
+  "author": { "name": "Khomix", "url": "https://github.com/Khomix" },
+  "keywords": ["unity", "editor", "overlay", "toolbar", "scenes"],
+  "license": "MIT"
+}
