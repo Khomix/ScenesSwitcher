@@ -1,7 +1,5 @@
 # Scenes Switcher
 
-[🇺🇦 Read in Ukrainian](README.uk.md)
-
 **Scenes Switcher** is a Unity Editor tool by **Khomix** that adds a button in the Scene View Toolbar for quickly switching between scenes from **Build Settings**.
 
 ## ✨ Features
